@@ -1,8 +1,9 @@
 # Swarm
 
 This is an extension of the existing Boids program by jyanar. See: https://github.com/jyanar/Boids
+
 I extended it to include a swarming behaviour based on the Lenard-Jones potential function.
-The user can now switch between Floacking and Swarming behaviours by pressing the Space Bar.
+The user can now switch between Flocking and Swarming behaviours by pressing the Space Bar.
 
 
 Original Readme:
